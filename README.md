@@ -1,0 +1,2 @@
+# yufi-my
+News repository
